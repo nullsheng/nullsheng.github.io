@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[nullsheng]]></title>
+  <subtitle><![CDATA[成为一枚潜力无限的工程师]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-05-08T05:13:00.781Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[nullsheng]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[论文送审了]]></title>
+    <link href="http://yoursite.com/2015/05/08/%E8%AE%BA%E6%96%87%E9%80%81%E5%AE%A1%E4%BA%86/"/>
+    <id>http://yoursite.com/2015/05/08/论文送审了/</id>
+    <published>2015-05-08T05:10:21.000Z</published>
+    <updated>2015-05-08T05:13:00.781Z</updated>
+    <content type="html"><![CDATA[<p>今天论文终于要送审了，这是辛苦这么一段时间的成果，感谢岳老师、感谢金老师，没有两位老师的帮助，我不可能这么顺利的完成博士论文，特别的感谢两位老师。</p>
+<p><img src="/images/boshilunwen.jpg" style="width: 500px;"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天论文终于要送审了，这是辛苦这么一段时间的成果，感谢岳老师、感谢金老师，没有两位老师的帮助，我不可能这么顺利的完成博士论文，特别的感谢两位老师。</p>
+<p><img src="/images/boshilunwen.jpg" style="width: 500px;"]]>
+    </summary>
+    
+      <category term="论文" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87/"/>
+    
+      <category term="工作" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[今天爷爷生日]]></title>
+    <link href="http://yoursite.com/2015/05/08/%E4%BB%8A%E5%A4%A9%E7%88%B7%E7%88%B7%E7%94%9F%E6%97%A5/"/>
+    <id>http://yoursite.com/2015/05/08/今天爷爷生日/</id>
+    <published>2015-05-08T05:05:16.000Z</published>
+    <updated>2015-05-08T09:24:36.461Z</updated>
+    <content type="html"><![CDATA[<p>今天爷爷生日，可以已经看不见爷爷了，希望爷爷在另外一个世界能过的很好。</p>
+<p><img src="/images/yeye.jpg" style="width: 500px;"></p>
+<p>爷爷写的打油诗。</p>
+<p><img src="/images/dayoushi.jpg" style="width: 500px;"></p>
+<blockquote><p>老夫今年86，子孙满堂真幸福。<br>老妻80载，同享天伦乐。<br>子孙真勤俭，通居在中国。<br>望天多保佑，长寿看祖国。<br>此词文曰：打油诗，又曰快板。<br>2014年（甲午岁）<br>农历正月十九日</p>
+</blockquote>]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天爷爷生日，可以已经看不见爷爷了，希望爷爷在另外一个世界能过的很好。</p>
+<p><img src="/images/yeye.jpg" style="width: 500px;"></p>
+<p>爷爷写的打油诗。</p>
+<p><img src="/images/da]]>
+    </summary>
+    
+      <category term="亲人" scheme="http://yoursite.com/tags/%E4%BA%B2%E4%BA%BA/"/>
+    
+      <category term="记忆" scheme="http://yoursite.com/categories/%E8%AE%B0%E5%BF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[使用Hexo来写博客了]]></title>
+    <link href="http://yoursite.com/2015/05/08/%E4%BD%BF%E7%94%A8Hexo%E6%9D%A5%E5%86%99%E5%8D%9A%E5%AE%A2%E4%BA%86/"/>
+    <id>http://yoursite.com/2015/05/08/使用Hexo来写博客了/</id>
+    <published>2015-05-08T03:11:16.000Z</published>
+    <updated>2015-05-08T05:08:58.555Z</updated>
+    <content type="html"><![CDATA[<p>发现Hexo还挺容易上手的，<a href="http://hexo.io/" target="_blank">官网</a>的教程也很详细，可以顺便学一下markdown。<br>准备不在其它地方写东西了，以后就用这个了。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>发现Hexo还挺容易上手的，<a href="http://hexo.io/" target="_blank">官网</a>的教程也很详细，可以顺便学一下markdown。<br>准备不在其它地方写东西了，以后就用这个了。</p>
+]]>
+    </summary>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+    
+      <category term="杂项" scheme="http://yoursite.com/categories/%E6%9D%82%E9%A1%B9/"/>
+    
+  </entry>
+  
+</feed>
