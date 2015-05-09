@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[nullsheng]]></title>
-  <subtitle><![CDATA[成为一枚潜力无限的工程师]]></subtitle>
+  <title><![CDATA[nullsheng的博客]]></title>
+  <subtitle><![CDATA[致力于成为一枚高潜力的码农]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
   <updated>2015-05-08T05:13:00.781Z</updated>
