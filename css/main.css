@@ -1171,7 +1171,7 @@ input.menu-search-input {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0d17ff;
+  background: #0edeec;
 }
 .sidebar-nav {
   margin: 0;
@@ -1676,7 +1676,6 @@ input.menu-search-input {
 }
 .post-gallery {
   overflow: hidden;
-  display: table;
   border-spacing: 10px;
   border-collapse: separate;
 }
